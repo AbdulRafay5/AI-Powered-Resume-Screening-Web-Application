@@ -162,6 +162,4 @@ powershell
 Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
 
 
-## License
 
-This project is intended for educational and academic use.
